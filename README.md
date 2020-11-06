@@ -42,10 +42,3 @@ F8       | Isi peluru
 
 - [subVersion GTAO Hack](https://github.com/sub1to/subVersion_GTAO_Hack) — 💌 subVersion。
 
-## Sumber
-
-[@AmazingPP](https://github.com/AmazingPP)
-
-## Lisensi
-
-[GPL-3.0](LICENSE) © AmazingPP
