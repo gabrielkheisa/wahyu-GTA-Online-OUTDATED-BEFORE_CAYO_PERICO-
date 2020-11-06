@@ -31,9 +31,12 @@ Numpad 6 | Kanan
 F5       | Teleport ke waypoint
 F7       | Isi darah
 F8       | Isi peluru
-```
+
 ## Screenshot wahyu anekdot
 <img src="https://gabrielkheisa.github.io/img/wahyu.gif">
+
+```
+
 
 ## Link terkait
 
