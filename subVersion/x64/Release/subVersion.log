@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\gabriel kheisa\source\repos\subverison_gtav_hack\x64\release\subversion.exe' is denied.
+  D3D9Render.cpp
+  entity.cpp
+  hack.cpp
+  main.cpp
+C:\Users\Gabriel Kheisa\source\repos\subVerison_GTAV_Hack\subVersion\main.cpp(226,106): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Gabriel Kheisa\source\repos\subVerison_GTAV_Hack\subVersion\main.cpp(240,100): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  memManager.cpp
+  settings.cpp
+  stdafx.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  subVersion.vcxproj -> C:\Users\Gabriel Kheisa\source\repos\subVerison_GTAV_Hack\x64\Release\subVersion.exe
